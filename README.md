@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="">👋 Bem vindo ao meu canal</h1>
+<h1 align="">Bem vindo ao meu canal</h1>
 <h3 align="center">💻 Desenvolvedor Python | Linux | Front-end | Back-end</h3>
 
 <p align="center">
